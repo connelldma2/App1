@@ -1,0 +1,9 @@
+[{"question_text":  "Which category does a dolphin belong to?",
+  "answer_choices": ["avian", "mammal", "feline", "bovine"],
+  "correct_answer": 2},
+  {"question_text": "What occupies most of the Earth's surface?",
+    "answer_choices": ["water", "air", "gas", "forest"],
+    "correct_answer": 1
+  }
+]
+
