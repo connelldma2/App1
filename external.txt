@@ -1,18 +1,19 @@
 Crytographical Analysis
 Mobile Desktop Publishing
-computer work
-calibration
-validation
-automation studies
-patching
-Debugging
+Computational Modelling
+In-Process Calibration
+Machine Learning
+Automation Procedures
+Automation Studies
 Statistical Process Control
 Data Science and Machine Learning
-Machine Learning 
+Machine Learning Data Structures
 Computational Analysis
 Advanced Materials
 General Programming Routines
 Data Structures & Algorithmic Designs
  android mobile applications
 Java Programming and Theory
- c++ program development
+ C++ Program Development
+JellyBeans DevOps
+General MI Training Theories
